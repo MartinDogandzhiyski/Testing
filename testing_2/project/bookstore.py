@@ -1,6 +1,7 @@
 from typing import Dict
 
 
+
 class Bookstore:
     def __init__(self, books_limit: int):
         self.books_limit = books_limit
